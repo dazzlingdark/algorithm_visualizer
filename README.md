@@ -78,7 +78,7 @@ pip3 install pygame
 #### Cloning repository
 Clone this repo using command below to your desired location
 ```sh
-
+git clone https://github.com/dazzlingdark/algorithm_visualizer.git
 ```
 ### Running the program
 Just navigate inside the cloned directory and run the `main.py` file to start the program
